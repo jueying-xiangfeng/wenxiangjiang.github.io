@@ -13,10 +13,10 @@ layout: page
             {{ post.subtitle }}
         </h3>
         {% endif %}
-        <div class="post-content-preview">
-            {{ post.excerpt }}
-        </div>
     </a>
+    <div class="post-content-preview">
+        {{ post.excerpt }}
+    </div>
     <p class="post-meta">
         Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
     </p>
