@@ -86,7 +86,7 @@ UIBezierPath *path = [UIBezierPath bezierPathWithRoundedRect:CGRectMake(20, 20, 
 UIBezierPath *path = [UIBezierPath bezierPathWithArcCenter:CGPointMake(100, 100) radius:50 startAngle:0 endAngle:M_PI clockwise:YES];
 ```
 
-![坐标系统.jpeg]({{ site.url }}/assets/iOS绘画技术/坐标系统.jpeg)
+![坐标系统.jpeg]({{ site.baseurl }}/assets/iOS绘画技术/坐标系统.jpeg)
 
 ### 关于构造一个路径
 
@@ -139,7 +139,7 @@ UIBezierPath *path = [UIBezierPath bezierPath];
 [path addQuadCurveToPoint:CGPointMake(100, 20) controlPoint:CGPointMake(100, 60)];
 ```
 
-![二次贝塞尔曲线.jpeg]({{ site.url }}/assets/iOS绘画技术/二次贝塞尔曲线.jpeg)
+![二次贝塞尔曲线.jpeg]({{ site.baseurl }}/assets/iOS绘画技术/二次贝塞尔曲线.jpeg)
 
 ##### - (void)addCurveToPoint:(CGPoint)endPoint controlPoint1:(CGPoint)controlPoint1 controlPoint2:(CGPoint)controlPoint2
 
@@ -154,7 +154,7 @@ UIBezierPath *path = [UIBezierPath bezierPath];
 [path addCurveToPoint:CGPointMake(100, 20) controlPoint1:CGPointMake(30, 60) controlPoint2:CGPointMake(100, 100)];
 ```
 
-![三次贝塞尔曲线.jpeg]({{ site.url }}/assets/iOS绘画技术/三次贝塞尔曲线.jpeg)
+![三次贝塞尔曲线.jpeg]({{ site.baseurl }}/assets/iOS绘画技术/三次贝塞尔曲线.jpeg)
 
 ### 关于路径信息
 
@@ -395,5 +395,5 @@ UIBezierPath *path23 = [UIBezierPath bezierPath];
 [path23 stroke];
 ```
 
-![今日头条示例.png]({{ site.url }}/assets/iOS绘画技术/今日头条示例.png)
+![今日头条示例.png]({{ site.baseurl }}/assets/iOS绘画技术/今日头条示例.png)
 
