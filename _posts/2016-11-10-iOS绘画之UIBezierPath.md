@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      iOS绘画之UIBezierPath
-excerpt:    UIBezierPath用于定义一个由直线/曲线组合而成的路径, 并且可以在自定义视图中渲染该路径.
+excerpt:    UIBezierPath用于定义一个由直线/曲线组合而成的路径, 并且可以在自定义视图中渲染该路径. 在使用的过程中, 我们只需要先指定好路径的结构, 比如一条直线、一条贝塞尔曲线、一个矩形、一个椭圆、一个圆弧等, 然后使用系统为我们提供的方法将构建好的路径渲染出来即可
 date:       2016-11-10 17:00:00
 author:     "Liu Peng"
 header-img: "assets/iOS绘画技术/iOS绘画之UIBezierPath.jpg"
