@@ -17,6 +17,7 @@ baseurl: "/wenxiangjiang.github.io"
 
 github_username:    wenxiangjiang
 jianshu_username:   dc82854de6ab
+swifthumb_username: 1291
 RSS:                true
 weibo_username:     
 zhihu_username:     
@@ -80,6 +81,9 @@ friends: [
     {
         title: "Hux Blog",
         href: "http://huangxuan.me"
+    },{
+        title: "敏捷大拇指",
+        href: "http://www.swifthumb.com"
     },{
         title: "Example Friends",
         href: "#"
