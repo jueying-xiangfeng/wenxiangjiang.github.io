@@ -73,7 +73,7 @@ sidebar-avatar: assets/网站素材/about-avatar.png
 ### 是否启用标签云
 featured-tags: true
 ### 精选标签入选线
-featured-condition-size: 1
+featured-condition-size: 0
 
 ### 友情链接
 friends: [
