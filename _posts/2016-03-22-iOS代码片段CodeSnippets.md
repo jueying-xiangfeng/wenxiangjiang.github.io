@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      iOS代码片段CodeSnippets.md
+title:      iOS代码片段CodeSnippets
 excerpt:    ""
 date:       2016-03-22 15:00:00
 author:     "Liu Peng"

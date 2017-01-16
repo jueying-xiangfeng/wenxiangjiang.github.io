@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      iOS图标（AppIcon）与启动图（LaunchImage）.md
+title:      iOS图标（AppIcon）与启动图（LaunchImage）
 excerpt:    "图标（AppIcon）与启动图（LaunchImage）是开发iOS应用程序必不可少的内容，但是在网络上对于这部分的内容讲解的并不详细，所以花些时间写了这篇文章，希望有需要的朋友可以随时查看"
 date:       2016-02-22 23:00:00
 author:     "Liu Peng"

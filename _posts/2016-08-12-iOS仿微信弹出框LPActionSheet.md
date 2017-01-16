@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      iOS仿微信弹出框LPActionSheet.md
+title:      iOS仿微信弹出框LPActionSheet
 excerpt:    ""
 date:       2016-08-12 22:00:00
 author:     "Liu Peng"
