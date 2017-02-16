@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      UINavigationController与UINavigationBar详解
-excerpt:    ""
+excerpt:    "UINavigationController继承自UIViewController, 专门用于展示层级结构的内容, 可以让我们更高效地将层级结构的内容呈现给用户"
 date:       2017-02-16 19:24:00
 author:     "Liu Peng"
 header-img: "assets/iOS多控制器管理/UINavigationController与UINavigationBar详解-bg.png"
